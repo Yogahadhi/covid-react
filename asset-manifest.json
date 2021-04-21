@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covid-react/static/css/main.b864c7ba.chunk.css",
+    "main.css": "/covid-react/static/css/main.edacc6b6.chunk.css",
     "main.js": "/covid-react/static/js/main.1207ef43.chunk.js",
     "main.js.map": "/covid-react/static/js/main.1207ef43.chunk.js.map",
     "runtime-main.js": "/covid-react/static/js/runtime-main.8fe5e87d.js",
@@ -10,7 +10,7 @@
     "static/js/2.e25b3b6e.chunk.js.map": "/covid-react/static/js/2.e25b3b6e.chunk.js.map",
     "index.html": "/covid-react/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/covid-react/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.b864c7ba.chunk.css.map": "/covid-react/static/css/main.b864c7ba.chunk.css.map",
+    "static/css/main.edacc6b6.chunk.css.map": "/covid-react/static/css/main.edacc6b6.chunk.css.map",
     "static/js/2.e25b3b6e.chunk.js.LICENSE.txt": "/covid-react/static/js/2.e25b3b6e.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/covid-react/static/media/logo.6ce24c58.svg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.8fe5e87d.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e25b3b6e.chunk.js",
-    "static/css/main.b864c7ba.chunk.css",
+    "static/css/main.edacc6b6.chunk.css",
     "static/js/main.1207ef43.chunk.js"
   ]
 }
